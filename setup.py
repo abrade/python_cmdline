@@ -9,6 +9,9 @@ _core.setup(
     author='Alexander Brade',
     author_email='alex.brade@gmx.de',
     url='',
+    install_requires=[
+        'prompt_toolkit',
+    ],
     packages=[
     ],
     py_modules=[
